@@ -1,0 +1,1 @@
+include (../ChamaKeyboard.pro)
